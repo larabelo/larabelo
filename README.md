@@ -1,6 +1,6 @@
 ### Olá, me chamo Lara Belo👋
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=larabelo&bg_color=000000&color=cb95b2&line=ffffff&point=cb95b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=larabelo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=A76F6F&text_color=E7CBCB&bg_color=000000" alt="lara belo github stats" /> 
