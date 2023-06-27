@@ -18,8 +18,6 @@
 <a href="https://www.linkedin.com/in/larabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=larabelo&bg_color=000000&color=b48c9e&line=87225d&point=b48c9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=C88EA7)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=C88EA7)&nbsp;
