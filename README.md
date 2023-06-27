@@ -9,6 +9,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larabelo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=000000" />
 </div>
 
+
+[ ![ Digitando SVG ] ( https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35¢er=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Caroline+Barbosa;Sou +26+anos;Sou+do+Brasil;Sou+formado+em+sistemas+Desenvolvimento+Seja+bem-vindo!+:%29 )] ( https://git.io/typing-svg )
+
+[ ![ Gráfico de atividade do github de Ashutosh ] ( https://github-readme-activity-graph. vercel .app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true )] ( https : // github .com/ashutosh00710/github-readme-activity-graph )
+
 <div align="center"> 
 <a href="https://[[www.instagram.com/larabeloo/](https://www.instagram.com/larabeloo/)](https://www.instagram.com/larabeloo/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "lara.belo.702@ufrn.edu.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
