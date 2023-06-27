@@ -11,6 +11,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larabelo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=000000" />
 </div>
 
+<div align="center"> 
+<a href="https://[www.instagram.com/larabeloo/](https://www.instagram.com/larabeloo/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "lara.belo.702@ufrn.edu.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/larabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+
 
 
  ### Main skills:
