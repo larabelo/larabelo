@@ -1,3 +1,6 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0C49D&height=120&section=footer"/>
+
 ### Olá, me chamo Lara Belo👋
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=larabelo&bg_color=000000&color=cb95b2&line=ffffff&point=cb95b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
