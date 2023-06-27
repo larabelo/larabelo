@@ -7,6 +7,11 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=larabelo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=A76F6F&text_color=E7CBCB&bg_color=000000" alt="lara belo github stats" /> 
+  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=larabelo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=A76F6F&text_color=E7CBCB&bg_color=000000" alt="lara belo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larabelo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=000000" />
+</div>
 
 
 
