@@ -1,4 +1,5 @@
-### Olá, me chamo Lara Belo👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0C49D&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0C49D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Lara+Belo;Tenho+21+Anoa;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Sejam+bem+vindos!+:%29)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=larabelo&bg_color=000000&color=cb95b2&line=ffffff&point=cb95b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
